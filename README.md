@@ -4,7 +4,7 @@ I make mods for [Capri](https://capriai.app/), mess around with C#, and work on 
 
 ## Capri modding
 
-Most of my work is around Capri mods—adding features, extending the modding API, and changing how things work.
+Most of my work is around Capri and making mods. Adding features, extending the modding API, and changing how things work.
 
 **Official Capri links**
 
