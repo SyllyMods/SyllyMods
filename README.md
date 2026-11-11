@@ -29,8 +29,8 @@ Most of my work is around Capri — mainly its **UI, hooks, and API**.
 
 <div align="center">
 
-<img height="165" alt="SyllyMods GitHub stats" src="https://github-readme-stats.vercel.app/api?username=SyllyMods&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=D8B4FE&icon_color=9333EA&rank_icon=github" />
-<img height="165" alt="SyllyMods most-used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyllyMods&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=D8B4FE" />
+<img height="165" alt="SyllyMods GitHub stats" src="https://github-stats-extended.vercel.app/api?username=SyllyMods&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=D8B4FE&icon_color=9333EA&rank_icon=github" />
+<img height="165" alt="SyllyMods most-used languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SyllyMods&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=D8B4FE" />
 
 </div>
 
