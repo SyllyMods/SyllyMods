@@ -12,9 +12,9 @@ I make mods for [Capri](https://capriai.app/).
 ---
 
 ### Capri modding
-
+<div align="center">
 When it comes to making [Capri](https://capriai.app/) mods, I mainly do **UI, hooks, and API** related mods.
-
+</div>
 <div align="center">
 
 [![Capri GitHub](https://img.shields.io/badge/Capri-GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=A855F7)](https://github.com/lachydotmcg/capri-desktop)
