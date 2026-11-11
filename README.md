@@ -1,8 +1,8 @@
 <div align="center">
 
 # SyllyMods
-
-I make mods for [Capri](https://capriai.app/), mess around with C#, and work on other projects whenever I feel like it.
+I like C#, JS, Python, and Lua.
+I make mods for [Capri](https://capriai.app/).
 
 [![Followers](https://img.shields.io/github/followers/SyllyMods?style=flat-square&color=9333EA&labelColor=0D0D0D&logo=github&logoColor=C084FC)](https://github.com/SyllyMods?tab=followers)
 [![Profile Views](https://komarev.com/ghpvc/?username=SyllyMods&color=9333EA&style=flat-square&label=Profile+Views)](https://github.com/SyllyMods)
@@ -13,7 +13,7 @@ I make mods for [Capri](https://capriai.app/), mess around with C#, and work on 
 
 ### Capri modding
 
-Most of my work is around Capri — mainly its **UI, hooks, and API**.
+When it comes to making [Capri](https://capriai.app/) mods, I mainly do **UI, hooks, and API** related mods.
 
 <div align="center">
 
